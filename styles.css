@@ -1,6 +1,6 @@
 
 .row{
-    padding-bottom: 200px;
+    padding-bottom: 50px;
 }
 
   .swiper {
@@ -23,16 +23,10 @@
     height: 100%;
     object-fit: cover;
   }
- .card{
-    border-radius: 3%;
-    border: 0;
-    background-color: #fff;
- }
 
  .card-title{
     font-size: 25px;
     text-align: left;
- color: white;
   }
  .card-text{
   text-align: left;
@@ -51,6 +45,9 @@
     text-align: center;
     color: #fff;
  }
+ 
  .lead{
-    color: #fff;
+  color: white;
  }
+
+ 
